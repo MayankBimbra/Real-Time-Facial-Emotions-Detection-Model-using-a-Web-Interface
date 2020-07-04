@@ -78,9 +78,29 @@ You need to have installed following softwares and libraries in your machine bef
 
 5.flask
 
+6. Atom: Atom is a free and open-source text and source code editor for macOS, Linux, and Microsoft Windows. 
+
 # Project Structure 
-#### 1. Locating faces in the scene 
+1. Locating faces in the scene 
 
-#### 2. Extracting facial features from the detected face region 
+2. Extracting facial features from the detected face region 
 
-#### 3. Analyzing the motion of facial features and/or the changes in the appearance of facialfeatures 
+3. Analyzing the motion of facial features and/or the changes in the appearance of facial features 
+
+# Steps followed for building the project
+
+As per various surveys it is found that for implementing this project four basic steps are required to be performed.
+
+i.) Preprocessing
+
+ii.) Face registration 
+
+iii.) Facial feature extraction 
+
+iv.) Emotion classification
+
+# Author
+Mayank Bimbra
+
+
+
