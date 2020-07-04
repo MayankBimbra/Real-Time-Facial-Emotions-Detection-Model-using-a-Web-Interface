@@ -65,3 +65,11 @@ train.csv contains two columns, "emotion" and "pixels". The "emotion" column con
 
 The training set consists of 28,709 examples. The public test set used for the leaderboard consists of 3,589 examples. The final test set, which was used to determine the winner of the competition, consists of another 3,589 examples.
 
+# Prerequisites
+You need to have installed following softwares and libraries in your machine before running this project.
+
+1.Python 3
+2.Anaconda: It will install jupyter notebook and most of the libraries which are needed like sklearn, pandas, seaborn, matplotlib, numpy, PIL.
+3.OpenCV
+4.keras
+5.flask
