@@ -10,7 +10,7 @@ I. Neutral II. Angry III. Disgust IV. Fear V. Happy VI. Sadness VII. Surprise
 
 # Problem
 
-PROJECT FORMULATION 
+## PROJECT FORMULATION 
 
 The hands on building this project of Facial Expression Recognition is divided into following tasks/steps:-
 
