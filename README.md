@@ -1,5 +1,5 @@
 # Data Mining and Analysis Project
-# Real Time Facial Expressions/Emotions Detection using a Web Interface in Python
+# Real Time Facial Expressions/Emotions Detection Model using a Web Interface in Python
 
 # Description
 The Human facial expressions are important for visually expressing a lot more information. Facial expression recognition is essential in the field of human-machine interaction. Automated facial recognition systems have many applications, including understanding of human behavior, diagnosing mental disorders, and synthetic human expression. Identifying facial expressions through computers with high detection rates is still a challenging task.
