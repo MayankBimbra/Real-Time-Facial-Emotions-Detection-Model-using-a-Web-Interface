@@ -77,3 +77,10 @@ You need to have installed following softwares and libraries in your machine bef
 4.keras
 
 5.flask
+
+# Project Structure 
+#### 1. Locating faces in the scene 
+
+#### 2. Extracting facial features from the detected face region 
+
+#### 3. Analyzing the motion of facial features and/or the changes in the appearance of facialfeatures 
