@@ -10,8 +10,8 @@ In this project we are presenting the real time facial expression recognition of
 I. Neutral II. Angry III. Disgust IV. Fear V. Happy VI. Sadness VII. Surprise
 
 # Problem
-#### For any real time image taken from our camera, our goal is to predict the expression of the face in that image out of seven basic human expression.
-
+#### For any real time image taken from our web camera, our goal is to predict the expression of the face in that image out of seven basic human expression.
+ i.e. CLASSIFY THE EXPRESSION OF FACE IN IMAGE OUT OF SEVEN BASIC HUMAN EXPRESSION
 # Project Formulation
 
 The hands on building this project of Facial Expression Recognition is divided into following tasks/steps:-
