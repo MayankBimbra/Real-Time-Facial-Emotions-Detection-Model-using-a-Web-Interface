@@ -69,7 +69,11 @@ The training set consists of 28,709 examples. The public test set used for the l
 You need to have installed following softwares and libraries in your machine before running this project.
 
 1.Python 3
+
 2.Anaconda: It will install jupyter notebook and most of the libraries which are needed like sklearn, pandas, seaborn, matplotlib, numpy, PIL.
+
 3.OpenCV
+
 4.keras
+
 5.flask
