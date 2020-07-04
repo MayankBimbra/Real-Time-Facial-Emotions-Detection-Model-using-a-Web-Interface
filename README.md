@@ -92,13 +92,13 @@ You need to have installed following softwares and libraries in your machine bef
 
 As per various surveys it is found that for implementing this project four basic steps are required to be performed.
 
-i.) Preprocessing
+i.) Preprocessing- Preprocessing is a common name for operations with images at the lowest level of abstraction both input and output are intensity images. 
 
-ii.) Face registration 
+ii.) Face registration- Face Registration is a computer technology being used in a variety of applications that identifies human faces in digital images. 
 
-iii.) Facial feature extraction 
+iii.) Facial feature extraction- Facial Features extraction is an important step in face recognition and is defined as the process of locating specific regions, points, landmarks, or curves/contours in a given 2-D image or a 3D range image.  
 
-iv.) Emotion classification
+iv.) Emotion classification- In this step, of classification, the algorithm attempts to classify the given faces portraying one of the seven basic emotions.
 
 # Author
 Mayank Bimbra
