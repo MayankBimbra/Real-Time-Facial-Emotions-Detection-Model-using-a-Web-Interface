@@ -18,6 +18,7 @@ The hands on building this project of Facial Expression Recognition is divided i
 
 #### A.	Task 1: Introduction 
 •	Introduction to the dataset
+
 •	Import essential modules and helper functions from NumPy, Matplotlib, and Keras.
 
 #### B.	Task 2: Exploring the Dataset
@@ -25,6 +26,7 @@ The hands on building this project of Facial Expression Recognition is divided i
 
 #### C.	Task 3: Generating Training and Validation Batches
 •	Generate batches of tensor image data with real-time data augmentation.
+
 •	Specify paths to training and validation image directories and generates batches of augmented data.
 
 #### D.	Task 4: Creating a Convolutional Neural Network (CNN) Model
