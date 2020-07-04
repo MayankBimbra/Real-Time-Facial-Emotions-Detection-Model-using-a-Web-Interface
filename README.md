@@ -1,4 +1,5 @@
 # Data Mining and Analysis Project--Real-Time-Facial-Expression-Detection-using-a-Web-Interface-in-Python
+
 # Description
 The Human facial expressions are important for visually expressing a lot more information. Facial expression recognition is essential in the field of human-machine interaction. Automated facial recognition systems have many applications, including understanding of human behavior, diagnosing mental disorders, and synthetic human expression. Identifying facial expressions through computers with high detection rates is still a challenging task.
 
@@ -9,12 +10,13 @@ In this project we are presenting the real time facial expression recognition of
 I. Neutral II. Angry III. Disgust IV. Fear V. Happy VI. Sadness VII. Surprise
 
 # Problem
+For any real time image taken from our camera, our goal is to predict the expression of the face in that image out of seven basic human expression.
 
-## PROJECT FORMULATION 
+# PROJECT FORMULATION 
 
 The hands on building this project of Facial Expression Recognition is divided into following tasks/steps:-
 
-# A.	Task 1: Introduction 
+## A.	Task 1: Introduction 
 •	Introduction to the dataset
 •	Import essential modules and helper functions from NumPy, Matplotlib, and Keras.
 
