@@ -79,7 +79,7 @@ You need to have installed following softwares and libraries in your machine bef
 
 5.flask
 
-6. Atom: Atom is a free and open-source text and source code editor for macOS, Linux, and Microsoft Windows. 
+6.Atom: Atom is a free and open-source text and source code editor for macOS, Linux, and Microsoft Windows. 
 
 # Project Structure 
 1. Locating faces in the scene 
@@ -99,6 +99,9 @@ ii.) Face registration- Face Registration is a computer technology being used in
 iii.) Facial feature extraction- Facial Features extraction is an important step in face recognition and is defined as the process of locating specific regions, points, landmarks, or curves/contours in a given 2-D image or a 3D range image.  
 
 iv.) Emotion classification- In this step, of classification, the algorithm attempts to classify the given faces portraying one of the seven basic emotions.
+
+# Conclusion
+Therefore by following these steps, in this project a Emotion/Facial Recognition model has been trained and saved. It can recognize/detect the facial expressions of an individual on a real time basis that whether the individual is  Neutral, Angry, Disgust, Fear, Happy, Sad, Surprised.
 
 # Author
 Mayank Bimbra
